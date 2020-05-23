@@ -17,11 +17,6 @@ By 鸡哥 小北 Skay  (老编是这个世界上最美的女人)
 
 最高支持查询1w条记录
 
-#截图
-
-![](https://blog.happysec.cn/usr/uploads/2020/05/3277233673.png)
-![](https://blog.happysec.cn/usr/uploads/2020/05/3748819768.png)
-![](https://blog.happysec.cn/usr/uploads/2020/05/865792482.png)
 
 #使用方法
 
