@@ -42,13 +42,10 @@
 
     本程序无任何后门。仅会对搜索记录进行分析,但禁止对jar包进行二次魔或进行出售。
 
-# 软件下载地址
-
-    https://blog.happysec.cn/tools/tool.jar
 
 # token分享 
 
-    见博文:https://blog.happysec.cn/archives/227/ 
+    见博文:https://blog.happysec.cn/index/view/221.html
     文末有token
 
 
