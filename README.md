@@ -39,13 +39,13 @@ SeveTools还有很多没有完善的，在一些朋友的帮助和建议下，�
 
 # 鸣谢
 
-01dGu0 @白帽一百安全攻防实验室
+01dGu0 
 
 Seven7 @The loner 安全团队
 
 朋与厌 @The loner 安全团队
 
-Vaalacat @VN战队
+Vaalacat 
 
 P3rh4ps @WM战队
 
